@@ -1,4 +1,17 @@
 
+.big-container{
+    background-color: darksalmon;
+    margin: auto;
+    height: 500px;
+    width: 600px;
+
+}
+.main-box{
+    width: 100%;
+    height: auto;
+
+}
+
 /* 
 
     You can write your own styles here...
