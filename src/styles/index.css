@@ -11,7 +11,12 @@
     height: auto;
 
 }
-
+.strike {
+    text-decoration: line-through;
+}
+.green{
+    color: green;
+}
 /* 
 
     You can write your own styles here...
